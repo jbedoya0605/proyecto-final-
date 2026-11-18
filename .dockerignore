@@ -1,0 +1,16 @@
+.git
+.gitignore
+.github
+.env
+.env.*
+*.env
+notebooks/
+__pycache__/
+*.py[cod]
+*$py.class
+.venv/
+venv/
+env/
+.DS_Store
+README.md
+*.md
